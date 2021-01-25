@@ -1,0 +1,60 @@
+body {
+	font-family: Verdana;
+	width: 90%;
+	margin-left: 5%;
+	font-size: 3vw;
+	background-image: url('https://images.pexels.com/photos/33545/sunrise-phu-quoc-island-ocean.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+	 width: 90%;
+}
+
+header {
+
+}
+
+#contenido{
+	margin: 1%;
+}
+
+.contenido{
+ margin: 0;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ text-align: center;
+}
+
+
+footer {
+	font-size: 0.8em;
+	border-top: solid 2px #1f47a8;
+	padding-top: 1vw;
+	margin-top: 1vw;
+	text-align: center;
+}
+
+.h1{
+   font-size: 4rem;
+   color: azure;
+   text-align: center;
+   font-family: 'Reenie Beanie', cursive;
+	 background-color: red;
+	 border-radius: 5%;
+}
+
+.h2{
+    font-size: 3rem;
+    color: azure;
+    text-align: center;
+    font-family: 'Reenie Beanie', cursive;
+		background-color: red;
+		border-radius: 5%;
+ }
+
+ .rounded{
+    border-radius: 50%;
+    width: 100%;
+    padding: 1px;
+    border: 5px solid transparent;
+    background-color: white;
+}
