@@ -12,11 +12,11 @@ header {
 }
 
 #contenido{
-	margin: 1%;
+	margin: 10%;
 }
 
 .contenido{
- margin: 0;
+ margin: 5vh;
  position: absolute;
  top: 50%;
  left: 50%;
@@ -52,7 +52,7 @@ footer {
  }
 
  .rounded{
-	  margin-top: 25vh;
+    margin-top: 25vh;
     border-radius: 50%;
     width: 100%;
     padding: 1px;
